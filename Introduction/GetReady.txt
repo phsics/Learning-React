@@ -1,0 +1,44 @@
+Why to learn React
+    -> build UI
+    -> makes easy to manage and build complex frontend
+
+Why react was created
+    -> Ghost message problem (No consistency in UI)
+
+    state -> JS and UI -> DOM
+
+React learning process
+
+    -> go in-depth                                        -> by making projects
+         \/
+        Babel, fibre, Virtual DOM, 
+        diff algo, hydration
+
+React is a library
+    -> framework v/s library
+
+Topics to learn
+
+    -> Core of React (state or UI manipulation, JSX)
+    -> Component Reusability
+    -> Reusing of Component (props)
+    -> How to propagate change (hooks)
+
+Additional addon to React
+
+    -> Router (React don't have Router)
+    -> State management (React don't have state management)
+        -> Redux, Redux toolkit, zustand, context API
+    -> class based Component
+        -> legacy code
+    -> BAAS Apps
+        -> social media clone, e-commerce App ....
+
+After React
+    -> React is not a complete solution in most case
+    -> no seo, browesr render of JS, no routing
+
+    -> Framework 
+        -> NextJS, Gatsby, Remix
+
+        
